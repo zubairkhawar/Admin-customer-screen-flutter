@@ -1,4 +1,4 @@
-# my_project
+# AdminScreen-CustomerScreen-App
 
 A new Flutter project.
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<img width="460" alt="Screenshot 2024-05-19 at 1 53 36 AM" src="https://github.com/zubairkhawar/Admin-customer-screen-flutter/assets/115324847/c193b200-042d-473c-a553-911d79933341">
